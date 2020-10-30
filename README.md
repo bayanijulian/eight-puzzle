@@ -5,7 +5,16 @@
 
   
 
-This is a python project using pygame to visually show search algorithms solving an eight puzzle.
+This is a python console app to visually show search algorithms solving an eight puzzle.
+
+## How To Run
+This project uses version 3.8.1 🐍 Python.
+
+```bash
+    git clone https://github.com/bayanijulian/eight-puzzle.git
+    cd eight-puzzle
+    python puzzle.py
+```
 
   
 
